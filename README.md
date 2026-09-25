@@ -1,28 +1,26 @@
-<!-- CYBERPUNK HARDWARE BANNER -->
+<!-- STABLE ULTIMATE NEON HARDWARE BANNER -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="ECE Matrix Header" />
+  <img src="https://giphy.com" width="100%" alt="Neon Coding Circuits" />
 </p>
 
-<!-- MATRIX TECH SUBTITLE -->
-<p align="center">
-  <img src="https://demolab.com⚡+ELECTRONICS+%26+COMMUNICATION+ENGINEER+⚡;🛠️+EMBEDDED+SYSTEMS+%26+IOT+DEVELOPER;🔌+HARDWARE+HACKER+%7C+CIRCUITS+%26+CODE" alt="Typing Animation" />
-</p>
+<h1 align="center">⚡ MOHAMED KATHIP K ⚡</h1>
+<p align="center"><b>📡 ELECTRONICS & COMMUNICATION ENGINEER | EMBEDDED SYSTEMS & IOT DEVELOPER</b></p>
 
 <!-- HARDWARE GLITCH DIVIDER -->
 <p align="center">
-  <img src="https://giphy.com" width="60%" height="8px" />
+  <img src="https://giphy.com" width="80%" height="10px" />
 </p>
 
 <p align="center">
   <samp>
-    <b>⚡ SYSTEM STATUS: OPERATIONAL ⚡</b><br>
+    <b>⚙️ SYSTEM STATUS: OVERCLOCKED & OPERATIONAL ⚙️</b><br>
     Compiling hardware logic... Interfacing microcontrollers... Injecting code into silicon chips.
   </samp>
 </p>
 
 ---
 
-### 📡 SYSTEM SCHEMATICS (Current Operations)
+### ⚙️ SYSTEM SCHEMATICS (Current Operations)
 
 ```microcontroller
 🔄 While (Alive) {
@@ -35,7 +33,7 @@
 
 ---
 
-### 🛠️ SILICON & CODE STACK (Neon Glow Tech)
+### 🛠️ SILICON & CODE STACK (Neon Tech Matrix)
 
 #### 🔌 Hardware Architect & Circuits
 <p align="left">
@@ -46,15 +44,6 @@
 <p align="left">
   <img src="https://skillicons.dev" height="50" alt="Software Stack" />
   <img src="https://shields.io" height="50" alt="MATLAB Engine" />
-</p>
-
----
-
-### 🧬 HARDWARE CONTRIBUTIONS (The Contribution Grid Snake!)
-This animated robot snake actively eats my contribution blocks every single day!
-
-<p align="center">
-  <img src="https://githubusercontent.com" alt="ECE Grid Snake" width="100%" />
 </p>
 
 ---
