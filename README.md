@@ -1,91 +1,76 @@
-<!-- STABLE ULTIMATE NEON HARDWARE BANNER -->
-<p align="center">
-  <img src="https://giphy.com" width="100%" alt="Neon Coding Circuits" />
-</p>
+# ⚡ MOHAMED KATHIP K
+> **📡 Electronics & Communication Engineer | Embedded Systems & IoT Developer**
 
-<h1 align="center">⚡ MOHAMED KATHIP K ⚡</h1>
-<p align="center"><b>📡 ELECTRONICS & COMMUNICATION ENGINEER | EMBEDDED SYSTEMS & IOT DEVELOPER</b></p>
-
-<!-- HARDWARE GLITCH DIVIDER -->
-<p align="center">
-  <img src="https://giphy.com" width="80%" height="10px" />
-</p>
-
-<p align="center">
-  <samp>
-    <b>⚙️ SYSTEM STATUS: OVERCLOCKED & OPERATIONAL ⚙️</b><br>
-    Compiling hardware logic... Interfacing microcontrollers... Injecting code into silicon chips.
-  </samp>
-</p>
+```text
+ ┌──────────────────────────────────────────────────────────────┐
+ │ [⚙️] SYSTEM LOG: ACTIVE & OVERCLOCKED                        │
+ │ ├── [⚡] Core Voltage : 1.2V                                 │
+ │ ├── [🔋] Power State  : Optimal                              │
+ │ └── [📟] Main Bus     : Interfacing Silicon & Code...        │
+ └──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### ⚙️ SYSTEM SCHEMATICS (Current Operations)
+### 📡 CURRENT INITIALIZATION
 
 ```microcontroller
-🔄 While (Alive) {
-    • 🔭 Currently Overclocking: Embedded System & IoT Development
-    • 🛠️ Wiring & Debugging: Advanced RTOS, PCB layout configurations, and Sensor Nodes
-    • 🧠 Integrating: TinyML, Edge AI, and autonomous hardware modules
-    • 💬 Signal Frequency: Open to talk about Arduino, ESP32, STM32, and high-speed routing
+🔄 while (status == ALIVE) {
+    • 🔭 project_focus  = "Embedded System & IoT Development";
+    • 🛠️ current_tasks  = ["RTOS Debugging", "PCB Layout Routing", "Sensor Interfacing"];
+    • 🧠 research_area  = ["TinyML", "Edge AI Integration", "Autonomous Nodes"];
+    • 💬 signal_channel = "Open to discuss Microcontrollers, Firmware & C/C++";
 }
 ```
 
 ---
 
-### 🛠️ SILICON & CODE STACK (Neon Tech Matrix)
+### 🛠️ SILICON & ENVIRONMENT STACK
 
-#### 🔌 Hardware Architect & Circuits
-<p align="left">
-  <img src="https://skillicons.dev" height="50" alt="Hardware Stack" />
-</p>
-
-#### 💻 Environment & Firmware Tools
-<p align="left">
-  <img src="https://skillicons.dev" height="50" alt="Software Stack" />
-  <img src="https://shields.io" height="50" alt="MATLAB Engine" />
-</p>
-
----
-
-### 📊 DIAGNOSTICS & SYSTEM METRICS
-
-<p align="center">
-  <!-- Glowing Streak Counter -->
-  <img src="https://herokuapp.com" width="49%" alt="Overclocking Streak" />
-  <!-- Most Used Languages Core -->
-  <img src="https://vercel.app" width="49%" alt="Language Breakdown" />
-</p>
-
-<p align="center">
-  <!-- Main Stats Core -->
-  <img src="https://vercel.app" width="85%" alt="Core Performance Metrics" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔌 Hardware & Circuit Architecture</h4>
+      <ul>
+        <li><b>Platforms:</b> Arduino • ESP32 • Raspberry Pi</li>
+        <li><b>Architectures:</b> ARM Cortex • AVR • 8051</li>
+        <li><b>Protocols:</b> I2C • SPI • UART • CAN Bus</li>
+        <li><b>Core Focus:</b> PCB Design • Sensor Networks</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Software & Firmware Tools</h4>
+      <ul>
+        <li><b>Languages:</b> Embedded C • C++ • Python • MATLAB</li>
+        <li><b>Environments:</b> VS Code • PlatformIO • Linux Shell</li>
+        <li><b>Version Control:</b> Git • GitHub Workspace</li>
+        <li><b>RTOS Tools:</b> FreeRTOS • Task Scheduling</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📁 CORE PROJECTS (Firmware & Circuit Labs)
+### 📁 CORE PROJECTS & SCHEMATICS
 
-#### 🤖 [IoT Smart Node Controller](https://github.com)
-> `[STATUS: ACTIVE]` Low-power architectural node optimized for real-time edge operations.
-- **Hardware:** ESP32, FreeRTOS, MQTT Architecture, Custom Driver Firmware
-- **Metrics:** Boosted battery efficiency by 20% utilizing algorithmic sleep scheduling.
+> ### 🤖 IoT Smart Node Controller `[STATUS: OPERATIONAL]`
+> *Low-power architectural edge node optimized for real-time sensor array operations.*
+> - **Hardware Configuration:** ESP32 SoC, FreeRTOS Core, MQTT Gateway Protocols
+> - **System Metrics:** Achieved a **20% optimization** in standby power consumption.
+> — [View Repository Link](https://github.com)
 
-#### 📟 [Embedded Edge Device Framework](https://github.com)
-> `[STATUS: COMPILED]` High-frequency peripheral interface maximizing hardware output.
-- **Hardware:** Raspberry Pi, Python Core, Linux Shell, SPI/I2C/UART Protocols
-- **Metrics:** Maintained zero data degradation loops during rigorous multi-sensor polling tests.
+> ### 📟 Embedded Edge Device Framework `[STATUS: ACTIVE]`
+> *High-frequency peripheral communication layer maximizing raw hardware bus throughput.*
+> - **Hardware Configuration:** Raspberry Pi, Linux Core, Custom Shell Daemons
+> - **System Metrics:** Successfully executed continuous multi-sensor polling cycles with **0% data packet drop**.
+> — [View Repository Link](https://github.com)
 
 ---
 
-### 🤝 ESTABLISH CONNECTION
+### 🤝 CONNECTIONS ESTABLISHED
 
-<p align="left">
-  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" height="40" alt="LinkedIn Port" /></a>&nbsp;
-  <a href="mailto:kathipmohamed@gmail.com" target="blank"><img src="https://shields.io" height="40" alt="Direct Terminal Email" /></a>
-</p>
-
-<!-- LIVE NODE VISITOR TRAFFIC -->
-<p align="right">
-  <img src="https://komarev.com" alt="System Traffic" />
-</p>
+```text
+ 📶 LINKEDIN :: https://linkedin.com
+ 📧 EMAIL    :: kathipmohamed@gmail.com
+```
